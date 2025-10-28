@@ -10,7 +10,7 @@ Fichiers:
 - [tri-tres-selectif.py](tri-tres-selectif.py)
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 
 Origine : [Tri Très Sélectif](https://hackropole.fr/fr/challenges/misc/fcsc2023-misc-tri-tres-selectif/)
